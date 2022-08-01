@@ -60,6 +60,7 @@ Museu Nacional/UFRJ está vinculado ao Ministério da Educação. É a mais anti
 
 ## Anfíbios
 ## Ictiologia
+   A Coleção Ictiológica do Museu Nacional é mantida pelo Setor de ICtiologia, e conta com mais de 53 mil lotesde peixes marinhos e de água doce.
 ## Mamíferos
 ## Ornitologia
 ## Répteis
